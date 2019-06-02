@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 //copy from CONNECT (MongoDB Atlas)
 const dbURI =
-    "mongodb+srv://ericzhaow121:shijie123@cluster0-e7uuh.mongodb.net/test?retryWrites=true";
+     "mongodb+srv://jingsn:88885555@mycluster-mdtkd.mongodb.net/test?retryWrites=true";
 const options = {
     useNewUrlParser: true,
     dbName: "INFO30005"
