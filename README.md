@@ -1,4 +1,4 @@
-# info30005-2019-wa
+# BabyCaring: a forum about taking care of babies: https://babycaring.herokuapp.com/
 
 ## Description of core functionalities:
 
