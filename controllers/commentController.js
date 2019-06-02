@@ -7,7 +7,7 @@ var createComment = function(req, res ){
         "created" : Date.now()
     });
     comment.save( function( err, comments, count ){
-        res.redirect('/post/:id');
+        res.render('postfeedback');
     });
 };
 
