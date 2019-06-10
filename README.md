@@ -1,7 +1,7 @@
 # BabyCaring: a forum about taking care of babies: https://babycaring.herokuapp.com/
 
 
-![Image text](https://github.com/jingsy/master/Nodejs-/img-folder/appjs.jpg)
+![Image text](https://github.com/jingsy/Nodejs-/blob/master/img-folder/appjs.png)
 
 
 ## Description of core functionalities:
